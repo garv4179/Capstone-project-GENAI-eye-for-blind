@@ -14,6 +14,10 @@ The project is an extended application of Show, Attend and Tell: Neural Image Ca
 
  
 
+The project is an extended application of Show, Attend and Tell: Neural Image Caption Generation with Visual Attention.paper.https://arxiv.org/abs/1502.03044
+
+The data set is taken from the Kaggle website and consists of a sentence-based image description having a list of 8,000 images that are each paired with five different captions, which provide clear descriptions of the salient entities and events of the image. https://www.kaggle.com/adityajn105/flickr8k****
+
 The dataset is taken from the Kaggle website and it consists of sentence-based image descriptions having a list of 8,000 images that are each paired with five different captions which provide clear descriptions of the salient entities and events of the image.
 
 The major steps that you have to perform can be briefly summarised in the following four steps:
